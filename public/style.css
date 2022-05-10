@@ -1,0 +1,12 @@
+body {
+    color: grey;
+    background-color: silver;
+}
+#root {
+    border: 1px solid silver;
+    width: 225px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 5px;
+    margin: 100px auto;
+}
